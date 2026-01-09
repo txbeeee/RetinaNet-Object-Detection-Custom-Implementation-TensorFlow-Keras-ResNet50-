@@ -20,6 +20,7 @@ This project is a completely custom implementation of RetinaNet for license plat
 
 # Predicted boxes
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/4082bd6a-2081-40b6-9d53-cda4511d41dc" /> <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/63aa24a2-fafe-493d-965c-e292a0f100d7" />
+
 *Green boxes are truth. Red ones are predictions.
 
 # Model training results
